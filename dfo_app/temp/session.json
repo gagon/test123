@@ -1,0 +1,12 @@
+{
+    "colormap": "Jet",
+    "downhole_data_fullpath": "C:\\Users\\zhumab\\Desktop\\dfo\\data\\pt.txt",
+    "output_dts_folder": "C:\\Users\\zhumab\\Desktop\\dfo\\data\\dts_waterfall\\flow",
+    "well_completion_fullpath": "",
+    "well_geothermal_fullpath": "C:\\Users\\zhumab\\Desktop\\dfo\\data\\dts_geothermal\\geothermal.txt",
+    "well_inclination_fullpath": "C:\\Users\\zhumab\\Desktop\\dfo\\data\\inclination.txt",
+    "well_logs_folder": "",
+    "well_name": "Well A",
+    "zmax": 42,
+    "zmin": 38
+}
